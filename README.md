@@ -14,13 +14,16 @@ Once I reviewed the User Story and Acceptance Criteria, I proceeded to identify 
 ### Changed items
 
 - Semantic HTML elements added and rearraged: header, main, sections, aside, footer.
-- Logical structure top-bottom
+- Logical structure top-bottom.
 - Alt text attributes for all images
-- Heading elements follows sequence h1,h2,h3,h4 in css style file
-- Change title to be more descriptive
-- All links pointing to internal elements working properly
+- Heading elements follows sequence h1,h2,h3,h4 in css style file.
+- Change title to be more descriptive.
+- All links pointing to internal elements working properly.
 - Rearrange classes and ids on css file. Ids used for unique elements in the website and Classes to be reused for more than one element.
-- Oerflow attribut set as 
+- Oerflow attribut set as auto to handle better containers with images and text.
+
+### Future additions
+- Check webpage at https://www.seobility.net/en/ and follow recomendations.
 
 
 
