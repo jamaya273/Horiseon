@@ -13,6 +13,8 @@ Once I reviewed the User Story and Acceptance Criteria, I proceeded to identify 
 
 ### Changed items
 
+- semantic HTML elements added and rearraged: '&lt';header &gt, '<main>'
+
 
 
 
