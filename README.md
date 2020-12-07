@@ -8,7 +8,7 @@ The purpose of this project is to refact a codebase to be optimized search engin
 ### Reason to standardization
 On my short experience with websites design, I have realized that when I am coding and wanting to get certain features working at the website, there are multiple ways to get similar results and this could conduct to messy coding designs. It may be the case for many others when coding and we have all those many of options. It is a good idea to stick to recommendations for standardization, they could be found on specialized sites such https://www.w3schools.com created with educational purposes and has been very useful on my initial project as web developer.
 
-### Procedure on the project
+### Project procedure
 Once I reviewed the User Story and Acceptance Criteria, I proceeded to identify potential areas for improvement. According to standardization rules is recommended to use semantic HTML elements whenever possible, then I added those elements to the original HTML code. Second, I checked the CSS code where I found coding repeating multiple times, rearranged the code to make it easier to read and to be more efficient. Finally, I verified all the functionality of the website to confirm that is works as expected. 
 
 ### Changed items
